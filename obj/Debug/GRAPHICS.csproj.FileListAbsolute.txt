@@ -1,0 +1,17 @@
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.Form1.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\GRAPHICS.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.csproj.GenerateResource.Cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\bin\Debug\GRAPHICS.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\bin\Debug\GRAPHICS.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\bin\Debug\GRAPHICS.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\GRAPHICS\obj\Debug\GRAPHICS.Form1.resources

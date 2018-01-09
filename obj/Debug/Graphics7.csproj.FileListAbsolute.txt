@@ -1,0 +1,18 @@
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\bin\Debug\Graphics7.exe.config
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\bin\Debug\Graphics7.exe
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\bin\Debug\Graphics7.pdb
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.Form1.resources
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.Properties.Resources.resources
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.csproj.GenerateResource.Cache
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.exe
+C:\Users\Настя\Downloads\Graphics7-master\Graphics7-master\Graphics7\obj\Debug\Graphics7.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.exe.config
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.exe
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\bin\Debug\Graphics7.pdb
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.Form1.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.Properties.Resources.resources
+C:\Users\Настя\Documents\Visual Studio 2015\Projects\Graphics7\obj\Debug\Graphics7.csproj.GenerateResource.Cache
